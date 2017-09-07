@@ -1,0 +1,3 @@
+[submodule "jetbrains-settings"]
+	path = jetbrains-settings
+	url = https://github.com/mike-seagull/jetbrains-settings.git
